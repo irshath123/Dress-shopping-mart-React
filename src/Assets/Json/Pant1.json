@@ -1,0 +1,60 @@
+[
+    {
+        "id": 19,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1718007875_7682781.jpg?format=webp&w=480&dpr=1.3",
+        "name": "Solids: Rustic",
+        "price": 1999,
+        "Qty": 1
+    },
+    {
+        "id": 20,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1720280498_6966313.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Spider-Man: Web-Slinger",
+        "price": 2199,
+        "Qty": 1
+    },
+    {
+        "id": 21,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1710751919_6218299.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Solids: Charcoal (Cargo)",
+        "price": 2299,
+        "Qty": 1
+    },
+    {
+        "id": 22,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1718005070_1122344.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Ripstop Pants: Onyx Black",
+        "price": 1499,
+        "Qty": 1
+    },
+    {
+        "id": 23,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1723038719_9140653.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Parachute Pants: Tan Brown",
+        "price": 1699
+    },
+    {
+        "id": 24,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1713877198_2696649.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Solids: Deep Black",
+        "price": 1399
+    },
+    {
+        "id": 25,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1723274816_9610931.jpg?format=webp&w=300&dpr=1.3",
+        "name": "TSS Originals: Mocha",
+        "price": 899
+    },
+    {
+        "id": 26,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1720510975_5058121.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Solids: Greenlake",
+        "price": 1999
+    },
+    {
+        "id": 27,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1721488114_8753985.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Solids: Black",
+        "price": 1399
+    }
+]

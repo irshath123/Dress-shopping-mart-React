@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1723529071_3522278.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Denim: Raw Blue",
+        "price": 1299,
+        "Qty": 1
+    },
+    {
+        "id": 2,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1700648768_8646421.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Plaid: Brown Mustard ",
+        "price": 1699,
+        "Qty": 1
+    },
+    {
+        "id": 3,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1713953148_7629031.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Batman: Fear The Bat",
+        "price": 1599,
+        "Qty": 1
+    },
+    {
+        "id": 4,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1720253899_7453896.jpg?format=webp&w=300&dpr=1.3",
+        "name": "TSS Originals: Crystal Prism",
+        "price": 999,
+        "Qty": 1
+    },
+    {
+        "id": 5,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1712574491_5770981.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Plaid: Blue And White",
+        "price": 1599
+    },
+    {
+        "id": 6,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1713877198_2696649.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Plaid: Blue, Green, and Yellow",
+        "price": 999
+    },
+    {
+        "id": 7,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1718780548_2056679.jpg?format=webp&w=300&dpr=1.3",
+        "name": "TSS Originals: Indigo Stripes",
+        "price": 1999
+    },
+    {
+        "id": 8,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1720164245_6666481.jpg?format=webp&w=700&dpr=1.3",
+        "name": "Textured Shirt: Magnum",
+        "price": 1599
+    },
+    {
+        "id": 9,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1723289099_8031335.jpg?format=webp&w=300&dpr=1.3",
+        "name": "TSS Originals: Artistic",
+        "price": 999
+    }
+]

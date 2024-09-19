@@ -1,0 +1,60 @@
+[
+    {
+        "id": 28,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1722481821_5261951.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Harry Potter: Slytherin",
+        "price": 2499,
+        "Qty": 1
+    },
+    {
+        "id": 29,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1721318246_6639453.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Urban Blaze: Reverb",
+        "price": 2899,
+        "Qty": 1
+    },
+    {
+        "id": 30,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1718090174_1791817.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Naruto: Split Sneakers",
+        "price": 2699,
+        "Qty": 1
+    },
+    {
+        "id": 31,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711958690_2405406.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Space Edition: Lunar2308",
+        "price": 2199,
+        "Qty": 1
+    },
+    {
+        "id": 32,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1694689639_5944281.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Superman: Man Of Steel",
+        "price": 1999
+    },
+    {
+        "id": 33,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1721458947_6270300.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Wolverine: Weapon X",
+        "price": 1999
+    },
+    {
+        "id": 34,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1709882810_8949887.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Spider-Man: Miles Morales",
+        "price": 2599
+    },
+    {
+        "id": 35,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1699359694_3959623.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Naruto: Itachi",
+        "price": 2699
+    },
+    {
+        "id": 36,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1706367511_6747324.jpg?format=webp&w=300&dpr=1.3",
+        "name": "TSS Originals: Swift Blue",
+        "price": 999
+    }
+]

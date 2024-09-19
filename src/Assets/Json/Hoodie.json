@@ -1,0 +1,60 @@
+[
+    {
+        "id": 64,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1700646663_2867346.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Rick & Morty:",
+        "price": 1899,
+        "Qty": 1
+    },
+    {
+        "id": 65,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1713878050_7684884.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Punisher: Vigilante",
+        "price": 1299,
+        "Qty": 1
+    },
+    {
+        "id": 66,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1712743746_3153691.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Solids: Berry Blue",
+        "price": 1999,
+        "Qty": 1
+    },
+    {
+        "id": 67,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1713008088_5594810.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Transformers: Prime Time",
+        "price": 999,
+        "Qty": 1
+    },
+    {
+        "id": 68,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1712744212_4972479.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Pink Panther: Hustler",
+        "price": 899
+    },
+    {
+        "id": 69,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1713009014_8917991.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Truck Art: Deadpool",
+        "price": 1599
+    },
+    {
+        "id": 70,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1665832629_5408793.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Superman: Man of Steel",
+        "price": 1250
+    },
+    {
+        "id": 71,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1713008671_6267117.jpg?format=webp&w=300&dpr=1.3",
+        "name": "TSS Originals: Green Camo",
+        "price": 1599
+    },
+    {
+        "id": 72,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1713171964_4298109.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Zip-Up: Deep Wine",
+        "price": 1799
+    }
+]

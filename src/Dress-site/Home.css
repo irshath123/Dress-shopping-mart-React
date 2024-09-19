@@ -1,0 +1,41 @@
+.home{
+    width: 100%;
+    min-height: 100vh;
+    padding: 20px 140px;
+    background-color: rgba(248, 248, 255, 0.756);
+}
+.home h1{
+    font-size: 35px;
+    color:rgb(20, 19, 19);
+    text-shadow: 2px 5px 6px rgb(75, 74, 74);
+    font-weight: 600;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.menu div{
+    border: none;
+    margin: 25px 25px;
+    text-align: center;
+    border-radius: 10px;
+    transition: 0.3s ease-in-out;
+    
+}
+.menu .lstyle{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.menu div h5{
+    color: rgb(23, 22, 22);
+    text-decoration: none;
+    font-size: 18px;
+}
+.menu div h5:hover{
+    text-decoration-line: underline;
+}
+.menu div img{
+    border-radius:10px;
+}

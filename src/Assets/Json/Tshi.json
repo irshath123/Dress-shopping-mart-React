@@ -1,0 +1,60 @@
+[
+    {
+        "id": 10,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1723011221_6019385.jpg?format=webp&w=480&dpr=1.3",
+        "name": "One Piece:Pirate",
+        "price": 1299,
+        "Qty": 1
+    },
+    {
+        "id": 11,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1694241578_8445831.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Marvel:Comic Nerd",
+        "price": 799,
+        "Qty": 1
+    },
+    {
+        "id": 12,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1651504202_5790112.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Black Panther:Panther Power",
+        "price": 999,
+        "Qty": 1
+    },
+    {
+        "id": 13,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1710852766_6220051.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Joker:Forever Evil",
+        "price": 1299,
+        "Qty": 1
+    },
+    {
+        "id": 14,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711112722_5465207.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Popeye: Spinach Power",
+        "price": 999
+    },
+    {
+        "id": 15,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1710852018_3784426.jpg?format=webp&w=300&dpr=1.3",
+        "name": "TSS Originals: Mosaic Blue",
+        "price": 999
+    },
+    {
+        "id": 16,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1710853447_3317650.jpg?format=webp&w=300&dpr=1.3",
+        "name": "TSS Originals: Jasper",
+        "price": 999
+    },
+    {
+        "id": 17,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1713002229_9695055.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Star Wars: Dark Lord",
+        "price": 999
+    },
+    {
+        "id": 18,
+        "pic": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1721411572_3210026.jpg?format=webp&w=300&dpr=1.3",
+        "name": "Deadpool: Anti-Hero",
+        "price": 999
+    }
+]

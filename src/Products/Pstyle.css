@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.Foodcard{
+    width: 350px;
+    min-height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    transition: .2s;
+}
+.Foodcard:hover{
+    box-shadow: inset2px 5px 6px rgb(108, 84, 84),
+    inset -4px -4px 10px white;
+    transition: .2s;
+}
+.FBtn{
+    width: 75px;
+    height: 25px;
+    margin-right: 10px;
+    padding: 0;
+    font-weight: 600;
+    border: 2px solid rgb(34, 34, 34) ;
+    border-radius: 20px;
+    background-color: transparent;
+    color: rgb(34, 34, 34);
+    font-weight: 600;
+    font-size: 15px;
+}
+.FBtn:hover{
+    background-color: tomato;
+    color: white;
+    border: 1px solid goldenrod ;
+}

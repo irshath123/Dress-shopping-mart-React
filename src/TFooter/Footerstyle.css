@@ -1,0 +1,25 @@
+.news{
+    background-color: black;
+    color: white;
+}
+.news input{
+    height: 45px;
+    width: 55%;
+    border: 2px solid white;
+    outline: none;
+    background: black;
+    color: white;
+    margin-top: 20px;
+    font-weight: 600; 
+}
+.btn2{
+    height: 45px;
+    width: 100px;
+    background: white;
+    margin-left:-10px ;
+    border: 2px solid white;
+    font-weight: 600;
+}
+.news::placeholder{
+    color: white;
+}
